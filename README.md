@@ -1,2 +1,3 @@
 # WebDevFundamental
-I will save my progress of web development here 
+
+I will save my progress of web development here.
