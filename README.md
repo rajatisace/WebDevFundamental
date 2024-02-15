@@ -10,6 +10,7 @@ I have learning basic HTML . These are my practice exercise.
     - [Course Landing Page](https://github.com/rajatisace/WebDevFundamental/blob/main/HTML/Course%20Landing%20Page.html) - This exercise I have learn to create a form
     - [Basic CSS style](https://github.com/rajatisace/WebDevFundamental/blob/main/HTML%26CSS/basic%20styles.html) - Learn inline,internal,external style for CSS
     - [Basic Poster](https://github.com/rajatisace/WebDevFundamental/tree/main/HTML%26CSS/Cantilever%20Poster) - Playing with text-shadow property
+    - [Ski Resort](https://github.com/rajatisace/WebDevFundamental/tree/main/HTML%26CSS/Ski%20Resort%20Exercise) - Creating Ski Resort with basic box model and more
  
 - Node
     - [My First API](https://github.com/rajatisace/WebDevFundamental/tree/main/node/My%20First%20API) - Create my first API using express
